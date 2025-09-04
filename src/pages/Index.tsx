@@ -41,7 +41,7 @@ const Index = () => {
               variant="romantic"
               size="lg"
               className="text-lg px-12 py-6 rounded-full font-semibold tracking-wide"
-              onClick={() => window.open('https://meetlove.site/', '_blank')}
+              onClick={() => window.open('https://meetlove.site/quiz-en/index.php', '_blank')}
             >
               I Want to Feel
             </Button>
