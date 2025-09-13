@@ -12,13 +12,13 @@ const Index = () => {
         className="absolute inset-0 w-full h-full object-cover z-0"
       >
         <source
-          src="https://image.cdn2.seaart.me/2025-06-02/d0ur81le878c73dd81mg/b64032dadcfe4c14138dbb6a810bbba1.mp4"
+          src="https://image.cdn2.seaart.me/2025-06-22/d1c101de878c739qris0/14ad0ce5163a591c60474e5a889e78d2.mp4"
           type="video/mp4"
         />
       </video>
 
       {/* Overlay for better text readability */}
-      <div className="absolute inset-0 bg-gradient-overlay z-10"></div>
+      <div className="absolute inset-0 bg-black/20 z-10"></div>
 
       {/* Content */}
       <div className="relative z-20 min-h-screen flex flex-col items-center justify-center px-4 text-center">
